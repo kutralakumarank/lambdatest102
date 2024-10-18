@@ -10,3 +10,5 @@ cucumber_context.json
 hyperexecuteupdate
 LT
 LT.exe
+node_modules
+.node_modules
